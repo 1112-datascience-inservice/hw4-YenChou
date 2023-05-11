@@ -1,8 +1,8 @@
 # Interactive web service of PCA and CA analysis by Shinyapp
 
-#### Name: [your name in Chinese or English]
-#### Student ID: [your student ID]
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_studentID/>]
+#### Name: 周正晏
+#### Student ID: 111971003
+#### ShinyApps link: [<https://chengyen-chou.shinyapps.io/NCCU_DS2023_hw4_111971003/>]
 
 ## Description
 
